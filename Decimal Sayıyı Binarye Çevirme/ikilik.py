@@ -10,5 +10,3 @@ while sayi!=0:
 for i in snc[::-1]:
     son+=str(i)
 print(son)
-    
-
